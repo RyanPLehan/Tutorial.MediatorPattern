@@ -1,1 +1,22 @@
-﻿
+﻿History
+Procedural Programming - Programs are sequences of instructions to be executed.
+						 Where the program is split up into named sets of instructions called procedures (analogous to functions)
+	1.  Groups of procedures/functions were grouped into files, generally named Modules
+	2.  Grouping was solely based upon the discretion of the developer.
+		Procedures did not need to have any of relevance to be placed/grouped into the same Module.
+	3.	All procedures were static and global in nature
+		This was because any procedure can invoke any other procedure
+
+
+Object Oriented Programing - Programs are based on the concept of "Objects" which contain data and code.
+	1.	Data is in the form of fields or attributes
+	2.	Code is in the form of procedures/functions
+	3.	There is a direct relevance between the data and the code.
+OOP Languague must support the following
+	1.	Polymorphism
+	2.	Inheritence
+	3.	Encapsulation
+		a.  Data and Code are encapsulated within a self contained definition such that the Code can reference the Data without relying on an external
+			entity to supply the arguments.
+
+

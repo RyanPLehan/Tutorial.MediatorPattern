@@ -5,12 +5,16 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Tutorial.MediatRUsage.Program</StartupObject>
+    <StartupObject>Tutorial.MediatorPattern.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="MediatR" Version="11.1.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ProceduralExamples\" />
   </ItemGroup>
 
 </Project>
